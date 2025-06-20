@@ -2,4 +2,4 @@ Este repositório tem como finalidade hospedar a página de Exclusão de dados d
 Esse documento é necessário para viabilizar os testes de autenticação de usuários utilizando a API da Meta (Facebook), 
 exclusivamente em ambiente de desenvolvimento. Nenhuma informação é coletada ou compartilhada.
 
-Link do site: 
+Link do site: https://rc-marcus-vinicius.github.io/posty-data-deletion-test/
